@@ -22,17 +22,17 @@ const experiences = [
     id: 3,
     image: "assets/img/experience/3.jpg",
     date: "2019 - 2020",
-    company: "Full Stack Web Development",
+    // company: "#",
     designation: "UC Berkeley Extension",
-    description: "#"
+    description: "Full Stack Web Development"
   },
   {
     id: 4,
     image: "assets/img/experience/4.jpg",
     date: "2016",
-    company: "BS Business Administration in Marketing",
+    // company: "#",
     designation: "San Jose State University",
-    description: "#"
+    description: "BS Business Administration in Marketing"
   },
 ];
 const Experience = () => {
