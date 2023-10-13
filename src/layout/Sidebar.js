@@ -5,9 +5,9 @@ const Sidebar = () => {
   const { navChange, nav, menus } = useContext(context);
 
   const socialLinks = [
-    { id: 1, name: "facebook", link: "#", icon: "icon-facebook-1" },
-    { id: 2, name: "twitter", link: "#", icon: "icon-twitter-1" },
-    { id: 3, name: "linkedin", link: "#", icon: "icon-linkedin-1" },
+    { id: 1, name: "instagram", link: "https://www.instagram.com/malvarez_jr/", icon: "icon-instagram-1" },
+    { id: 2, name: "github", link: "https://github.com/mariofalvarez", icon: "icon-github-1" },
+    { id: 3, name: "linkedin", link: "https://www.linkedin.com/in/mariofalvarez/", icon: "icon-linkedin-1" },
   ];
 
   return (
