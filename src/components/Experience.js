@@ -22,7 +22,7 @@ const experiences = [
     id: 3,
     image: "assets/img/experience/3.jpg",
     date: "2019 - 2020",
-    // company: "#",
+    company: "Certificate",
     designation: "UC Berkeley Extension",
     description: "Full Stack Web Development"
   },
@@ -30,7 +30,7 @@ const experiences = [
     id: 4,
     image: "assets/img/experience/4.jpg",
     date: "2016",
-    // company: "#",
+    company: "Degree",
     designation: "San Jose State University",
     description: "BS Business Administration in Marketing"
   },
